@@ -6,16 +6,16 @@ Designed using KiCad, the shield enables rapid prototyping for motion control, a
 
 
 ## Schematic Design
-![Schematic](<img width="1207" height="577" alt="Screenshot 2026-05-10 172320" src="https://github.com/user-attachments/assets/950ffe95-4068-465e-888d-1ac403349f00" />
+![Schematic](<img alt="Screenshot 2026-05-10 172320" src="https://github.com/user-attachments/assets/950ffe95-4068-465e-888d-1ac403349f00" />
 )
 
 ## PCB Layout
-![PCB Layout](<img width="919" height="708" alt="Screenshot 2026-05-10 172301" src="https://github.com/user-attachments/assets/d77b057b-ba80-4343-91bd-53f8882d019f" />
+![PCB Layout](< alt="Screenshot 2026-05-10 172301" src="https://github.com/user-attachments/assets/d77b057b-ba80-4343-91bd-53f8882d019f" />
 )
 
 ---
 ## 3D PCB View
-![3D View](<img width="574" height="553" alt="Screenshot 2026-05-10 172330" src="https://github.com/user-attachments/assets/d7decf0f-4677-4006-bbee-2d00c1419cf0" />
+![3D View](<img alt="Screenshot 2026-05-10 172330" src="https://github.com/user-attachments/assets/d7decf0f-4677-4006-bbee-2d00c1419cf0" />
 )
 
 ---
