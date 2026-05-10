@@ -6,19 +6,18 @@ Designed using KiCad, the shield enables rapid prototyping for motion control, a
 
 
 ## Schematic Design
-![Schematic](<img alt="Screenshot 2026-05-10 172320" src="https://github.com/user-attachments/assets/950ffe95-4068-465e-888d-1ac403349f00" />
-)
+![Schematic](https://github.com/user-attachments/assets/950ffe95-4068-465e-888d-1ac403349f00)
+
+---
 
 ## PCB Layout
-![PCB Layout](< alt="Screenshot 2026-05-10 172301" src="https://github.com/user-attachments/assets/d77b057b-ba80-4343-91bd-53f8882d019f" />
-)
+![PCB Layout](https://github.com/user-attachments/assets/d77b057b-ba80-4343-91bd-53f8882d019f)
 
 ---
+
 ## 3D PCB View
-![3D View](<img alt="Screenshot 2026-05-10 172330" src="https://github.com/user-attachments/assets/d7decf0f-4677-4006-bbee-2d00c1419cf0" />
-)
+![3D View](https://github.com/user-attachments/assets/d7decf0f-4677-4006-bbee-2d00c1419cf0)
 
----
 
 ## Features
 - 6 Servo output connectors
